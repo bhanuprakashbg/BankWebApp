@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/asm-attrs-1.5.3.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/hibernate-3.2.1.ga.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/hibernate-annotations-3.2.0.ga.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/hibernate-core-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/mysql-connector-java-5.1.9.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/ognl-3.0.6.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/struts2-core-2.3.8.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/xwork-core-2.3.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Workspace/BankWebApps/target/BankWebApp/WEB-INF/lib/struts2-junit-plugin-2.3.20.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/spring-aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/spring-asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/spring-beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/spring-context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/spring-core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/spring-expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/spring-test-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/lib/struts2-junit-plugin-2.3.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M1038918/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/BankWebApps/target/classes"/>
+	<classpathentry kind="lib" path="target/BankWebApp/WEB-INF/classes"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
